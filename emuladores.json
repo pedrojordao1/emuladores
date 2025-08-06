@@ -1,0 +1,20 @@
+{
+  "emuladores": [
+    {
+      "nome": "Emulador X",
+      "descricao": "Emulador para jogos X",
+      "imagem": "https://example.com/imagem-do-emulador-x.jpg",
+      "link": "https://example.com/download-emulador-x",
+      "configurado": false,
+      "caminhoExecutavel": ""
+    },
+    {
+      "nome": "Emulador Y",
+      "descricao": "Emulador para jogos Y",
+      "imagem": "https://example.com/imagem-do-emulador-y.jpg",
+      "link": "https://example.com/download-emulador-y",
+      "configurado": false,
+      "caminhoExecutavel": ""
+    }
+  ]
+}
