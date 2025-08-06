@@ -1,6 +1,6 @@
 [
   {
-    "nome": "PCSX2",
+    "nome": "PCS2",
     "descricao": "Emulador de PS2. Precisa da BIOS.",
     "detalhes": "Instale o PCSX2 para rodar jogos de PS2. Precisa da BIOS que pode ser extraída do console PS2.",
     "link": "https://pcsx2.net/download/"
