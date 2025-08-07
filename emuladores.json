@@ -1,9 +1,9 @@
 {
   "emuladores": [
     {
-      "nome": "Emulador X",
+      "nome": "PCSX2",
       "descricao": "Emulador para jogos X",
-      "imagem": "https://example.com/imagem-do-emulador-x.jpg",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PCSX2_logo4.png",
       "link": "https://example.com/download-emulador-x",
       "configurado": false,
       "caminhoExecutavel": ""
