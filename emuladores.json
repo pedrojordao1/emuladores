@@ -4,23 +4,25 @@
       "nome": "PCSX2",
       "descricao": "Emulador para jogos PS2",
       "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
-      "downloadImediato": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip",  
-      "linkOficial": "https://www.pcsx2.net",  
-      "configurado": false,  
+      "downloadImediato": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip",
+      "linkOficial": "https://www.pcsx2.net",
+      "configurado": false,
       "caminhoExecutavel": "",
-      "biosConfigurada": false,  
-      "caminhoBios": ""  
+      "biosConfigurada": false,
+      "caminhoBios": "",
+      "diretorioDeDownload": "Netflix dos Games > Emuladores > PCSX2 > Configurações"
     },
     {
       "nome": "Emulador Y",
       "descricao": "Emulador para jogos Y",
       "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s5v.jpg",
-      "downloadImediato": "https://example.com/download-emulador-y",  
-      "linkOficial": "https://www.emulador-y.net",  
+      "downloadImediato": "https://example.com/download-emulador-y",
+      "linkOficial": "https://www.emulador-y.net",
       "configurado": false,
       "caminhoExecutavel": "",
       "biosConfigurada": false,
-      "caminhoBios": ""
+      "caminhoBios": "",
+      "diretorioDeDownload": "Netflix dos Games > Emuladores > Emulador Y > Configurações"
     }
   ]
 }
