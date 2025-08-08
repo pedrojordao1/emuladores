@@ -2,19 +2,25 @@
   "emuladores": [
     {
       "nome": "PCSX2",
-      "descricao": "Emulador para jogos X",
+      "descricao": "Emulador para jogos PS2",
       "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
-      "link": "https://example.com/download-emulador-x",
-      "configurado": false,
-      "caminhoExecutavel": ""
+      "downloadImediato": "https://example.com/download-emulador-pcsx2",  // Link para download imediato
+      "linkOficial": "https://www.pcsx2.net",  // Link para o site oficial
+      "configurado": false,  // Este campo será atualizado para 'true' após a BIOS ser configurada
+      "caminhoExecutavel": "",
+      "biosConfigurada": false,  // Indica se a BIOS foi configurada corretamente
+      "caminhoBios": ""  // O caminho onde a BIOS foi configurada
     },
     {
       "nome": "Emulador Y",
       "descricao": "Emulador para jogos Y",
       "imagem": "https://example.com/imagem-do-emulador-y.jpg",
-      "link": "https://example.com/download-emulador-y",
+      "downloadImediato": "https://example.com/download-emulador-y",  // Link para download imediato
+      "linkOficial": "https://www.emulador-y.net",  // Link para o site oficial
       "configurado": false,
-      "caminhoExecutavel": ""
+      "caminhoExecutavel": "",
+      "biosConfigurada": false,
+      "caminhoBios": ""
     }
   ]
 }
