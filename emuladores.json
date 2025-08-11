@@ -4,7 +4,7 @@
       "nome": "PCSX2",
       "descricao": "Emulador para jogos PS2",
       "imagem": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
-      "downloadImediato": "https://github.com/PCSX2/pcsx2/releases/latest/download/pcsx2-setup.exe",
+      "downloadImediato": "https://github.com/PCSX2/pcsx2/releases/download/v2.4.0/PCSX2-v2.4.0-windows-x64-installer.exe",
       "linkOficial": "https://www.pcsx2.net",
       "configurado": false,
       "caminhoExecutavel": "",
